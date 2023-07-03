@@ -18,6 +18,6 @@ export const FriendImg = styled.img`
 `
 export const FriendName = styled.p`
     margin-top: 0;
-    margin-bottom: 6px;
+    margin-bottom: 10px;
 
 `
